@@ -64,5 +64,5 @@
   />
 </p>
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=srikanth-rl&custom_title=Nanthakumaran%20S%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=srikanth-rl&custom_title=Srikanth%20R%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
 />
