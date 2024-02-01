@@ -53,8 +53,8 @@
     width="49.5%" 
     src="https://streak-stats.demolab.com/?user=srikanth-rl&hide_border=true&background=0E1117&ring=26a641&fire=26a641&currStreakNum=26a641&sideNums=26a641&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" 
   />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6)]()
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6)](https://github.com/srikanth-rl)
 
 
 
