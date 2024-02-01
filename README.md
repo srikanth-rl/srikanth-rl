@@ -54,8 +54,7 @@
     src="https://streak-stats.demolab.com/?user=srikanth-rl&hide_border=true&background=0E1117&ring=26a641&fire=26a641&currStreakNum=26a641&sideNums=26a641&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" 
   />
 </p>
-[![Raveens's GitHub stats](https://github-readme-stats.vercel.app/api?username=raveen2001&hide=prs,issues&count_private=true&show_icons=true&theme=dark)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen2001&hide=html,css,javascript,jupyter%20notebook,python&theme=dark&layout=compact&langs_count=6)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&hide=html,css,javascript,jupyter%20notebook,python&theme=dark&layout=compact&langs_count=6)]()
 
 
 
