@@ -43,9 +43,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-F34423.svg?&style=for-the-badge&logo=figma&logoColor=white"/>]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&hide=html,css,javascript,jupyter%20notebook,python&theme=dark&layout=compact&langs_count=6)]()
 ## My Statistics
 <p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6)]()
   <img 
     width="49.5%" 
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=srikanth-rl&show_icons=true&hide_border=true&bg_color=0E1117&title_color=8b949e&text_color=8b949e&icon_color=26a641" 
