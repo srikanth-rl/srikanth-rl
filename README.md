@@ -44,7 +44,11 @@
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-F34423.svg?&style=for-the-badge&logo=figma&logoColor=white"/>]()
 
 ## My Statistics
-<div style="text-align: center;">
+  <div>
+    <a href="https://github.com/srikanth-rl">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6">
+    </a>
+  </div>
   <p>
     <img 
       width="49.5%" 
@@ -56,13 +60,7 @@
     />
   </p>
 
-  <div>
-    <a href="https://github.com/srikanth-rl">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6">
-    </a>
-  </div>
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=srikanth-rl&custom_title=Srikanth%20R%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
   />
-</div>
