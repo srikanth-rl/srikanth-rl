@@ -43,6 +43,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-F34423.svg?&style=for-the-badge&logo=figma&logoColor=white"/>]()
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&hide=html,css,javascript,jupyter%20notebook,python&theme=dark&layout=compact&langs_count=6)]()
 ## My Statistics
 <p>
   <img 
@@ -54,7 +55,6 @@
     src="https://streak-stats.demolab.com/?user=srikanth-rl&hide_border=true&background=0E1117&ring=26a641&fire=26a641&currStreakNum=26a641&sideNums=26a641&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" 
   />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&hide=html,css,javascript,jupyter%20notebook,python&theme=dark&layout=compact&langs_count=6)]()
 
 
 
