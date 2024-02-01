@@ -57,5 +57,5 @@
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=srikanth-rl&custom_title=Srikanth%20R%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
 /> -->
-[![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl theme=dark&layout=compact&langs_count=6)]()
+[![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6)]()
 
