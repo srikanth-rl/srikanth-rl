@@ -46,7 +46,7 @@
 ## My Statistics
   <div>
     <a href="https://github.com/srikanth-rl">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&hide=c&theme=dark&layout=compact&langs_count=6">
     </a>
   </div>
   <p>
