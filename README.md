@@ -57,5 +57,9 @@
    src="https://github-readme-activity-graph.vercel.app/graph?username=srikanth-rl&custom_title=Srikanth%20R%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
    />
 </p>
-
+<div style="text-align: center;">
+  <a href="https://github.com/srikanth-rl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6">
+  </a>
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6)](https://github.com/srikanth-rl)
