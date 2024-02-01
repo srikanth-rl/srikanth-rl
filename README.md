@@ -44,25 +44,25 @@
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-F34423.svg?&style=for-the-badge&logo=figma&logoColor=white"/>]()
 
 ## My Statistics
-<p>
-  <img 
-    width="49.5%" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=srikanth-rl&show_icons=true&hide_border=true&bg_color=0E1117&title_color=8b949e&text_color=8b949e&icon_color=26a641" 
-  />
-  <img 
-    width="49.5%" 
-    src="https://streak-stats.demolab.com/?user=srikanth-rl&hide_border=true&background=0E1117&ring=26a641&fire=26a641&currStreakNum=26a641&sideNums=26a641&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" 
-  />
-</p>
-
 <div style="text-align: center;">
-  <a href="https://github.com/srikanth-rl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6">
-  </a>
-</div>
+  <p>
+    <img 
+      width="49.5%" 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=srikanth-rl&show_icons=true&hide_border=true&bg_color=0E1117&title_color=8b949e&text_color=8b949e&icon_color=26a641" 
+    />
+    <img 
+      width="49.5%" 
+      src="https://streak-stats.demolab.com/?user=srikanth-rl&hide_border=true&background=0E1117&ring=26a641&fire=26a641&currStreakNum=26a641&sideNums=26a641&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" 
+    />
+  </p>
 
-<p>
+  <div>
+    <a href="https://github.com/srikanth-rl">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-rl&theme=dark&layout=compact&langs_count=6">
+    </a>
+  </div>
+
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=srikanth-rl&custom_title=Srikanth%20R%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
   />
-</p>
+</div>
